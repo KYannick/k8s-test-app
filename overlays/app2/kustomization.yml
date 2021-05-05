@@ -1,0 +1,8 @@
+bases:
+- ../../base_yaml
+
+nameSuffix: "-2"
+namespace: testns
+
+commonLabels:
+  app: test-app-2
